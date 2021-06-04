@@ -17,5 +17,7 @@ You can jump to avoid enemies.
 USER INPUTS :
 
 ENTER(main menu): LAUNCH GAME
+
 SPACE: JUMP
-ESCAPE: CLOSE GAM
+
+ESCAPE: CLOSE GAME
